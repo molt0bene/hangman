@@ -59,7 +59,7 @@ class Game
   # Если игра не закончена и передаваемая буква отсутствует в массиве
   # введённых букв, то закидывает передаваемую букву в массив "попыток".
   def play!(letter)
-    if !over? && !@user_guesses.include?(letter)
+    if !over? && !@user_guesses.include?(normalize_letter(letter))
       @user_guesses << normalize_letter(letter)
     end
   end
