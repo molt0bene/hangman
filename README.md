@@ -13,3 +13,7 @@
 
 Обратите внимание, что буквы Ё и Й также открываются, 
 если человек назвал Е или И соответственно.
+
+**Пример работы программы**
+
+![Example Gif](https://media3.giphy.com/media/pkfgcf6cjiSoh6X9Yl/giphy.gif?cid=790b76118f7eaf8fd6c6103cb9855acd5516afd84642c485&rid=giphy.gif&ct=g)
