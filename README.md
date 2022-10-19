@@ -3,7 +3,10 @@
 
 **Запуск программы:** 
 
-```ruby main.rb```
+```
+bundle
+bundle exec ruby main.rb
+```
 
 **Правила игры:**
 
